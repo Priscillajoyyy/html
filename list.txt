@@ -2,7 +2,7 @@ list types:
 ordered list
 fruit list:
 1.apple
-2.orange
+2.kiwi
 3.mango
 
 unordered list
