@@ -1,3 +1,9 @@
 list types:
 ordered list
+fruit list:
+1.apple
+2.grape
+3.mango
 unordered list
+*ball
+*bat
